@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dimciruiの家</title>
+  
+  <subtitle>谛听</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://dimcirui.gitee.io/"/>
+  <updated>2020-02-15T07:37:26.864Z</updated>
+  <id>http://dimcirui.gitee.io/</id>
+  
+  <author>
+    <name>Dimcirui</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好，世界！</title>
+    <link href="http://dimcirui.gitee.io/2020/02/12/ni-hao-shi-jie-1/"/>
+    <id>http://dimcirui.gitee.io/2020/02/12/ni-hao-shi-jie-1/</id>
+    <published>2020-02-12T12:35:00.000Z</published>
+    <updated>2020-02-15T07:37:26.864Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;你好，世界！&quot;&gt;&lt;a href=&quot;#你好，世界！&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="日记" scheme="http://dimcirui.gitee.io/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+</feed>
